@@ -1,5 +1,5 @@
 import './App.css';
-import React, { useState } from 'react'
+import React, { useState, useEffect } from 'react'
 import RatingGraph from './graph.js'
 import { RatingDisplay } from './rating-display';
 import { getRatings, getUserData } from './utils';
@@ -20,6 +20,10 @@ const UsersForm = ({ handles, setHandles, submitAct }) => {
 
 
 const App = () => {
+  useEffect(() => {
+    document.title = "cf plot"
+  }, []);
+ 
   const [handles, setHandles] = useState("")
   const [users, setUsers] = useState([])
   const [datasets, setDatasets] = useState([])
