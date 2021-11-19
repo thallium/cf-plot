@@ -8,7 +8,13 @@ const UsersForm = ({ handles, setHandles, submitAct }) => {
   return (
     <form onSubmit={submitAct} className='form'>
       <div className='input-div'>
-        <textarea className='input' value={handles} onChange={e => setHandles(e.target.value)} />
+        <textarea
+         rows={3}
+         placeholder='codeforces handles, one per line'
+         className='input'
+         value={handles}
+         onChange={e => setHandles(e.target.value)}
+        />
       </div>
       <div>
         <button type="submit">go</button>
