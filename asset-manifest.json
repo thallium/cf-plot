@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/cf-plot/static/css/main.4137deb5.chunk.css",
-    "main.js": "/cf-plot/static/js/main.77695765.chunk.js",
-    "main.js.map": "/cf-plot/static/js/main.77695765.chunk.js.map",
+    "main.css": "/cf-plot/static/css/main.b55362b8.chunk.css",
+    "main.js": "/cf-plot/static/js/main.5e5adcf6.chunk.js",
+    "main.js.map": "/cf-plot/static/js/main.5e5adcf6.chunk.js.map",
     "runtime-main.js": "/cf-plot/static/js/runtime-main.cab445d3.js",
     "runtime-main.js.map": "/cf-plot/static/js/runtime-main.cab445d3.js.map",
     "static/js/2.fcd1f043.chunk.js": "/cf-plot/static/js/2.fcd1f043.chunk.js",
     "static/js/2.fcd1f043.chunk.js.map": "/cf-plot/static/js/2.fcd1f043.chunk.js.map",
     "index.html": "/cf-plot/index.html",
-    "static/css/main.4137deb5.chunk.css.map": "/cf-plot/static/css/main.4137deb5.chunk.css.map",
+    "static/css/main.b55362b8.chunk.css.map": "/cf-plot/static/css/main.b55362b8.chunk.css.map",
     "static/js/2.fcd1f043.chunk.js.LICENSE.txt": "/cf-plot/static/js/2.fcd1f043.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.cab445d3.js",
     "static/js/2.fcd1f043.chunk.js",
-    "static/css/main.4137deb5.chunk.css",
-    "static/js/main.77695765.chunk.js"
+    "static/css/main.b55362b8.chunk.css",
+    "static/js/main.5e5adcf6.chunk.js"
   ]
 }
